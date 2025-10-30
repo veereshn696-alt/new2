@@ -6,3 +6,4 @@ Compound Interest by using pull origin commands.
 Expected Output:
 Simple Interest: ₹1500 
 Compound Interest: ₹1576.25
+print("hlo")
